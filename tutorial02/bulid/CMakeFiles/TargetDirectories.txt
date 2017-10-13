@@ -1,4 +1,0 @@
-/home/morc/project/json-tutorial/tutorial02/bulid/CMakeFiles/rebuild_cache.dir
-/home/morc/project/json-tutorial/tutorial02/bulid/CMakeFiles/edit_cache.dir
-/home/morc/project/json-tutorial/tutorial02/bulid/CMakeFiles/leptjson_test.dir
-/home/morc/project/json-tutorial/tutorial02/bulid/CMakeFiles/leptjson.dir
